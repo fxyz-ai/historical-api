@@ -1,28 +1,23 @@
-const express = require("express");
-const fs = require("fs");
-const app = express();
-const PORT = 3000;
+const express = require('express');
+const fs = require('fs');
+const path = require('path');
 
-app.get("/", (req, res) => {
-  res.send("Welcome to the History API!");
+const router = express.Router();
+const dataPath = path.join(__dirname, './data.jsondata.json');
+
+router.get('/', (req, res) => {
+  const events = JSON.parse(fs.readFileSync(dataPath));
+  res.json(events);
 });
 
-app.get("/events", (req, res) => {
-  const data = JSON.parse(fs.readFileSync("data.json"));
-  res.json(data);
-});
-
-app.get("/events/:year", (req, res) => {
+router.get('/:year', (req, res) => {
   const year = parseInt(req.params.year);
-  const data = JSON.parse(fs.readFileSync("data.json"));
-  const filtered = data.filter((event) => event.year === year);
-
+  const events = JSON.parse(fs.readFileSync(dataPath));
+  const filtered = events.filter(event => event.year === year);
   if (filtered.length === 0) {
-    return res.status(404).json({ message: "No events found for that year." });
+    return res.status(404).json({ message: 'No events found for this year.' });
   }
   res.json(filtered);
 });
 
-app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
-});
+module.exports = router;
