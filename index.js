@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const router = express.Router();
-const dataPath = path.join(__dirname, './data.jsondata.json');
+const dataPath = path.join(__dirname, './data.json');
 
 router.get('/', (req, res) => {
   const events = JSON.parse(fs.readFileSync(dataPath));

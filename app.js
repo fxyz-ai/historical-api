@@ -2,7 +2,7 @@ const express = require('express');
 const eventsRouter = require('./index');
 const app = express();
 
-app.use('/api/events', eventsRouter);
+app.use('/events', eventsRouter);
 
 app.get('/', (req, res) => {
   res.send('🎉 Historical Events API is running! Use /api/events or /api/events/:year');
