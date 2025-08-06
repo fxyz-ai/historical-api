@@ -12,9 +12,6 @@ Returns all historical event entries.
 ### `api/events/year`
 Returns the event for a specific year.
 
-Example:  
-`https://historical-api.onrender.com/events/1969`
-
 ---
 
 ## 🔧 Usage Example
@@ -25,3 +22,11 @@ fetch("https://historical-api.onrender.com/api/events")
   .then(data => {
     console.log(data);
   });
+```
+
+---
+
+## 📎 Note
+This API is for personal use, but you're free to use it.
+Just use the base URL:
+`https://historical-api.onrender.com`
