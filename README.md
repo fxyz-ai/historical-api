@@ -17,7 +17,7 @@ Returns the events for a specific year.
 ## 🔧 Usage Example
 
 ```js
-fetch("https://historical-api.onrender.com/api/events")
+fetch("https://historical-api.onrender.com/events")
   .then(res => res.json())
   .then(data => {
     console.log(data);
