@@ -1,0 +1,2657 @@
+[
+  {
+    "year": 1804,
+    "event": "Napoleon Bonaparte crowned himself Emperor of France",
+    "hint": "Think French military genius who said 'I am the state' and made Europe tremble"
+  },
+  {
+    "year": 1865,
+    "event": "American Civil War ended and Abraham Lincoln was assassinated",
+    "hint": "End of slavery in the U.S. and a president in a theater"
+  },
+  {
+    "year": 1914,
+    "event": "World War I began",
+    "hint": "Triggered by the assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "year": 1929,
+    "event": "The Great Depression began after the stock market crash",
+    "hint": "Black Tuesday changed the global economy overnight"
+  },
+  {
+    "year": 1945,
+    "event": "World War II ended and United Nations was founded",
+    "hint": "Hiroshima, Nagasaki, and peace talks shaped this year"
+  },
+  {
+    "year": 1913,
+    "event": "Henry Ford introduced the moving assembly line",
+    "hint": "Changed how cars were built forever"
+  },
+  {
+    "year": 1848,
+    "event": "First women's rights convention held in Seneca Falls",
+    "hint": "Kicked off the women's suffrage movement in the US"
+  },
+  {
+    "year": 1876,
+    "event": "Alexander Graham Bell made the first phone call",
+    "hint": "Inventor said 'Mr. Watson, come here — I want to see you'"
+  },
+  {
+    "year": 1920,
+    "event": "Women in the U.S. got the right to vote (19th Amendment)",
+    "hint": "Victory for women after years of protest"
+  },
+  {
+    "year": 1990,
+    "event": "Hubble Space Telescope was launched",
+    "hint": "Helped us see deep into space like never before"
+  },
+  {
+    "year": 1889,
+    "event": "Eiffel Tower was officially opened in Paris",
+    "hint": "Became the symbol of Paris, built for a World's Fair"
+  },
+  {
+    "year": 1939,
+    "event": "Batman debuted in Detective Comics",
+    "hint": "The Dark Knight made his first appearance"
+  },
+  {
+    "year": 1977,
+    "event": "Star Wars premiered in theaters",
+    "hint": "A galaxy far, far away began here"
+  },
+  {
+    "year": 1995,
+    "event": "Amazon sold its first book online",
+    "hint": "From online bookstore to global giant"
+  },
+  {
+    "year": 1963,
+    "event": "Martin Luther King Jr. delivered his 'I Have a Dream' speech",
+    "hint": "Iconic civil rights moment in Washington D.C."
+  },
+  {
+    "year": 1986,
+    "event": "Chernobyl nuclear disaster occurred",
+    "hint": "Worst nuclear accident in history, happened in USSR"
+  },
+  {
+    "year": 1994,
+    "event": "Nelson Mandela became South Africa’s first Black president",
+    "hint": "After decades of apartheid, change finally came"
+  },
+  {
+    "year": 1981,
+    "event": "First space shuttle, Columbia, launched",
+    "hint": "NASA’s reusable space vehicle took flight"
+  },
+  {
+    "year": 1903,
+    "event": "Wright brothers flew the first powered airplane",
+    "hint": "Took off at Kitty Hawk, changed travel forever"
+  },
+  {
+    "year": 1985,
+    "event": "Nintendo released the NES in North America",
+    "hint": "Mario time! Gaming took over homes"
+  },
+  {
+    "year": 2010,
+    "event": "Instagram was launched",
+    "hint": "The beginning of filters, feeds and reels"
+  },
+  {
+    "year": 1997,
+    "event": "First book of Harry Potter was published",
+    "hint": "Boy wizard entered the literary world"
+  },
+  {
+    "year": 2004,
+    "event": "Facebook was founded",
+    "hint": "From college dorm to social media empire"
+  },
+  {
+    "year": 1954,
+    "event": "First Godzilla movie released in Japan",
+    "hint": "The king of monsters was born"
+  },
+  {
+    "year": 1975,
+    "event": "Microsoft was founded",
+    "hint": "Bill Gates and Paul Allen started it all"
+  },
+  {
+    "year": 1936,
+    "event": "BBC launched the world’s first regular TV service",
+    "hint": "Brought moving images into homes"
+  },
+  {
+    "year": 2005,
+    "event": "YouTube was founded",
+    "hint": "The video revolution began here"
+  },
+  {
+    "year": 1989,
+    "event": "Berlin Wall fell",
+    "hint": "Symbolic end of Cold War and German division"
+  },
+  {
+    "year": 1962,
+    "event": "The Beatles released their first single 'Love Me Do'",
+    "hint": "Start of Beatlemania"
+  },
+  {
+    "year": 2007,
+    "event": "First iPhone announced by Steve Jobs",
+    "hint": "Changed how we use phones forever"
+  },
+  {
+    "year": 1998,
+    "event": "Google was founded",
+    "hint": "Began in a garage, now rules the internet"
+  },
+  {
+    "year": 2012,
+    "event": "Curiosity rover landed on Mars",
+    "hint": "NASA’s robot explored the red planet"
+  },
+  {
+    "year": 2020,
+    "event": "COVID-19 declared a global pandemic",
+    "hint": "Worldwide lockdowns and masks"
+  },
+  {
+    "year": 2016,
+    "event": "Pokémon Go became a global phenomenon",
+    "hint": "People ran outside to catch ‘em all"
+  },
+  {
+    "year": 1859,
+    "event": "Charles Darwin published 'On the Origin of Species'",
+    "hint": "Introduced the theory of evolution"
+  },
+  {
+    "year": 1879,
+    "event": "Thomas Edison invented the practical electric light bulb",
+    "hint": "Let there be light!"
+  },
+  {
+    "year": 1945,
+    "event": "Atomic bombs dropped on Hiroshima and Nagasaki",
+    "hint": "Led to Japan's surrender in WWII"
+  },
+  {
+    "year": 2003,
+    "event": "Human Genome Project completed",
+    "hint": "Mapped our entire genetic code"
+  },
+  {
+    "year": 2018,
+    "event": "Avengers: Infinity War released",
+    "hint": "Thanos snapped, half disappeared"
+  },
+  {
+    "year": 2023,
+    "event": "ChatGPT made major waves in AI",
+    "hint": "AI became mainstream conversation"
+  },
+  {
+    "year": 2009,
+    "event": "Bitcoin was created",
+    "hint": "First cryptocurrency was mined"
+  },
+  {
+    "year": 2011,
+    "event": "Osama bin Laden was killed by US forces",
+    "hint": "Major milestone in the War on Terror"
+  },
+  {
+    "year": 2008,
+    "event": "Barack Obama elected as US President",
+    "hint": "First African-American President"
+  },
+  {
+    "year": 1969,
+    "event": "ARPANET, the internet’s ancestor, was born",
+    "hint": "Early internet communication started"
+  },
+  {
+    "year": 1953,
+    "event": "DNA structure discovered by Watson and Crick",
+    "hint": "Double helix revealed"
+  },
+  {
+    "year": 1973,
+    "event": "First call made on a mobile phone",
+    "hint": "Motorola engineer made the call"
+  },
+  {
+    "year": 2022,
+    "event": "James Webb Space Telescope released first images",
+    "hint": "Deepest views of space ever captured"
+  },
+  {
+    "year": 1851,
+    "event": "First World’s Fair (The Great Exhibition) held in London",
+    "hint": "Showcased the industrial revolution"
+  },
+  {
+    "year": 1896,
+    "event": "First modern Olympic Games held in Athens",
+    "hint": "Revival of ancient Greek tradition"
+  },
+  {
+    "year": 1930,
+    "event": "FIFA World Cup held for the first time",
+    "hint": "Uruguay hosted and won"
+  },
+  {
+    "year": 2021,
+    "event": "NASA flew a helicopter on Mars",
+    "hint": "First controlled flight on another planet"
+  },
+  {
+    "year": 2001,
+    "event": "Apple introduced the iPod",
+    "hint": "1,000 songs in your pocket"
+  },
+  {
+    "year": 1863,
+    "event": "Abraham Lincoln issued the Emancipation Proclamation",
+    "hint": "Freed slaves in Confederate states"
+  },
+  {
+    "year": 1825,
+    "event": "First public railway opened in England",
+    "hint": "Steam locomotive revolution began"
+  },
+  {
+    "year": 1983,
+    "event": "First mobile phone sold commercially",
+    "hint": "The brick phone era began"
+  },
+  {
+    "year": 1963,
+    "event": "John F. Kennedy was assassinated in Dallas",
+    "hint": "The president in the convertible car — Zapruder film"
+  },
+  {
+    "year": 1969,
+    "event": "Apollo 11 landed on the moon",
+    "hint": "“One small step for man” moment broadcast to the world"
+  },
+  {
+    "year": 1989,
+    "event": "Fall of the Berlin Wall",
+    "hint": "The wall that divided East and West Germany came down"
+  },
+  {
+    "year": 2001,
+    "event": "Terrorist attacks on the World Trade Center (9/11)",
+    "hint": "Twin Towers, NYC, changed global security forever"
+  },
+  {
+    "year": 2020,
+    "event": "COVID-19 declared a global pandemic",
+    "hint": "The year masks, lockdowns, and Zoom took over our lives"
+  },
+  {
+    "year": 1815,
+    "event": "Battle of Waterloo marked Napoleon's final defeat",
+    "hint": "The iconic loss that ended his comeback after exile"
+  },
+  {
+    "year": 1863,
+    "event": "Abraham Lincoln issued the Emancipation Proclamation",
+    "hint": "The declaration that began the end of slavery in the U.S."
+  },
+  {
+    "year": 1917,
+    "event": "Russian Revolution overthrew the Tsar and led to Soviet rule",
+    "hint": "The year Lenin rose and royal rule fell"
+  },
+  {
+    "year": 1939,
+    "event": "World War II began with Germany invading Poland",
+    "hint": "Blitzkrieg warfare and Hitler’s aggression kicked it off"
+  },
+  {
+    "year": 1957,
+    "event": "USSR launched Sputnik, the first artificial satellite",
+    "hint": "The beep that started the Space Race"
+  },
+  {
+    "year": 1964,
+    "event": "Civil Rights Act was signed in the United States",
+    "hint": "The major legal win against segregation and discrimination"
+  },
+  {
+    "year": 1971,
+    "event": "Email was invented and the first message sent",
+    "hint": "Before texting, this was how digital messages began"
+  },
+  {
+    "year": 1986,
+    "event": "Chernobyl nuclear disaster occurred in the USSR",
+    "hint": "The reactor meltdown that shook the world and left a ghost city"
+  },
+  {
+    "year": 2008,
+    "event": "Global financial crisis began after Lehman Brothers collapsed",
+    "hint": "The year the economy crashed and bailouts ruled"
+  },
+  {
+    "year": 2011,
+    "event": "Osama bin Laden was killed by U.S. Navy SEALs",
+    "hint": "The end of a decade-long manhunt post-9/11"
+  },
+  {
+    "year": 1807,
+    "event": "Britain abolished the transatlantic slave trade",
+    "hint": "A major move by the British Empire to outlaw slave shipping"
+  },
+  {
+    "year": 1837,
+    "event": "Queen Victoria ascended the British throne",
+    "hint": "The beginning of a long reign that defined an entire era"
+  },
+  {
+    "year": 1848,
+    "event": "Revolutions erupted across Europe",
+    "hint": "A wave of uprisings for democracy and workers’ rights"
+  },
+  {
+    "year": 1865,
+    "event": "U.S. Civil War ended and Lincoln was assassinated",
+    "hint": "Victory for the Union, but a tragic loss for the nation"
+  },
+  {
+    "year": 1876,
+    "event": "Alexander Graham Bell made the first telephone call",
+    "hint": "The words “Mr. Watson, come here” changed communication"
+  },
+  {
+    "year": 1885,
+    "event": "The Berlin Conference formalized the Scramble for Africa",
+    "hint": "European powers divided African territories without consent"
+  },
+  {
+    "year": 1903,
+    "event": "Wright brothers made the first powered flight",
+    "hint": "Kitty Hawk became the birthplace of aviation"
+  },
+  {
+    "year": 1914,
+    "event": "World War I began after Archduke Franz Ferdinand was assassinated",
+    "hint": "A gunshot in Sarajevo sparked a global conflict"
+  },
+  {
+    "year": 1920,
+    "event": "League of Nations was established",
+    "hint": "The first international peacekeeping group, pre-UN"
+  },
+  {
+    "year": 1929,
+    "event": "Wall Street Crash triggered the Great Depression",
+    "hint": "The markets collapsed, and the world economy followed"
+  },
+  {
+    "year": 1945,
+    "event": "World War II ended and United Nations was formed",
+    "hint": "From atomic bombs to peace talks, this year was pivotal"
+  },
+  {
+    "year": 1955,
+    "event": "Rosa Parks sparked the Montgomery Bus Boycott",
+    "hint": "One brave woman on a bus ignited a civil rights movement"
+  },
+  {
+    "year": 1961,
+    "event": "Yuri Gagarin became the first human in space",
+    "hint": "The Soviet cosmonaut who orbited Earth before anyone else"
+  },
+  {
+    "year": 1973,
+    "event": "First mobile phone call was made by Martin Cooper",
+    "hint": "Before iPhones, there was a giant brick with a dial tone"
+  },
+  {
+    "year": 1989,
+    "event": "Berlin Wall fell, symbolizing the end of the Cold War",
+    "hint": "East met West as the Iron Curtain crumbled"
+  },
+  {
+    "year": 1991,
+    "event": "Soviet Union officially dissolved",
+    "hint": "The end of USSR and the rise of independent republics"
+  },
+  {
+    "year": 1994,
+    "event": "Nelson Mandela became President of South Africa",
+    "hint": "From prisoner to president after apartheid"
+  },
+  {
+    "year": 2004,
+    "event": "Facebook was launched by Mark Zuckerberg",
+    "hint": "It started in a dorm and reshaped the internet forever"
+  },
+  {
+    "year": 2020,
+    "event": "COVID-19 pandemic disrupted the world",
+    "hint": "The virus that changed travel, work, and life overnight"
+  },
+  {
+    "year": 2022,
+    "event": "Queen Elizabeth II passed away after 70-year reign",
+    "hint": "The end of Britain’s longest-reigning monarch’s era"
+  },
+  {
+    "year": 1807,
+    "event": "Britain abolished the transatlantic slave trade",
+    "hint": "A major move by the British Empire to outlaw slave shipping"
+  },
+  {
+    "year": 1837,
+    "event": "Queen Victoria ascended the British throne",
+    "hint": "The beginning of a long reign that defined an entire era"
+  },
+  {
+    "year": 1848,
+    "event": "Revolutions erupted across Europe",
+    "hint": "A wave of uprisings for democracy and workers’ rights"
+  },
+  {
+    "year": 1865,
+    "event": "U.S. Civil War ended and Lincoln was assassinated",
+    "hint": "Victory for the Union, but a tragic loss for the nation"
+  },
+  {
+    "year": 1876,
+    "event": "Alexander Graham Bell made the first telephone call",
+    "hint": "The words “Mr. Watson, come here” changed communication"
+  },
+  {
+    "year": 1885,
+    "event": "The Berlin Conference formalized the Scramble for Africa",
+    "hint": "European powers divided African territories without consent"
+  },
+  {
+    "year": 1903,
+    "event": "Wright brothers made the first powered flight",
+    "hint": "Kitty Hawk became the birthplace of aviation"
+  },
+  {
+    "year": 1914,
+    "event": "World War I began after Archduke Franz Ferdinand was assassinated",
+    "hint": "A gunshot in Sarajevo sparked a global conflict"
+  },
+  {
+    "year": 1920,
+    "event": "League of Nations was established",
+    "hint": "The first international peacekeeping group, pre-UN"
+  },
+  {
+    "year": 1929,
+    "event": "Wall Street Crash triggered the Great Depression",
+    "hint": "The markets collapsed, and the world economy followed"
+  },
+  {
+    "year": 1945,
+    "event": "World War II ended and United Nations was formed",
+    "hint": "From atomic bombs to peace talks, this year was pivotal"
+  },
+  {
+    "year": 1896,
+    "event": "First modern Olympic Games held in Athens",
+    "hint": "Global sports festival revived in Greece"
+  },
+  {
+    "year": 1927,
+    "event": "First talking movie 'The Jazz Singer' released",
+    "hint": "Cinema found its voice with a jazz tune"
+  },
+  {
+    "year": 1960,
+    "event": "First televised U.S. presidential debate",
+    "hint": "Nixon vs. Kennedy showdown on live TV"
+  },
+  {
+    "year": 1973,
+    "event": "First mobile phone call made by Martin Cooper",
+    "hint": "A call that started the mobile revolution"
+  },
+  {
+    "year": 1995,
+    "event": "Java programming language released",
+    "hint": "Coffee-fueled code for the web age"
+  },
+  {
+    "year": 1930,
+    "event": "First FIFA World Cup held in Uruguay",
+    "hint": "Football’s biggest stage debuted in South America"
+  },
+  {
+    "year": 1955,
+    "event": "Disneyland opened in California",
+    "hint": "The happiest place on Earth was born"
+  },
+  {
+    "year": 1997,
+    "event": "Harry Potter and the Philosopher's Stone published",
+    "hint": "The boy who lived made his debut"
+  },
+  {
+    "year": 1984,
+    "event": "Apple launched the Macintosh computer",
+    "hint": "1984 wasn’t just Orwell’s year—it was Apple’s too"
+  },
+  {
+    "year": 1998,
+    "event": "Google founded by Larry Page and Sergey Brin",
+    "hint": "A search engine that changed how we ask questions"
+  },
+  {
+    "year": 2008,
+    "event": "Barack Obama elected as U.S. President",
+    "hint": "Yes We Can – first Black U.S. President"
+  },
+  {
+    "year": 2010,
+    "event": "Instagram was launched",
+    "hint": "The app that made your lunch famous"
+  },
+  {
+    "year": 1981,
+    "event": "First Space Shuttle flight (Columbia)",
+    "hint": "NASA reused a spacecraft for the first time"
+  },
+  {
+    "year": 2005,
+    "event": "YouTube launched",
+    "hint": "Broadcast yourself became a global trend"
+  },
+  {
+    "year": 1989,
+    "event": "Nintendo released the Game Boy",
+    "hint": "Pocket gaming began with Tetris addiction"
+  },
+  {
+    "year": 1953,
+    "event": "DNA's double-helix structure discovered",
+    "hint": "Watson and Crick decoded life"
+  },
+  {
+    "year": 1937,
+    "event": "First animated feature film 'Snow White' released",
+    "hint": "Disney’s first princess hit the big screen"
+  },
+  {
+    "year": 2016,
+    "event": "Pokémon Go took the world by storm",
+    "hint": "Gotta catch ‘em all – in real life"
+  },
+  {
+    "year": 2004,
+    "event": "Facebook was launched",
+    "hint": "It started in a Harvard dorm room"
+  },
+  {
+    "year": 1994,
+    "event": "Amazon founded by Jeff Bezos",
+    "hint": "Started with books, conquered everything"
+  },
+  {
+    "year": 1985,
+    "event": "Microsoft released Windows 1.0",
+    "hint": "Windows opened for the first time"
+  },
+  {
+    "year": 1971,
+    "event": "Email was invented by Ray Tomlinson",
+    "hint": "First ever @ sent from a computer"
+  },
+  {
+    "year": 2012,
+    "event": "Curiosity rover landed on Mars",
+    "hint": "NASA’s little robot went interplanetary"
+  },
+  {
+    "year": 1990,
+    "event": "Hubble Space Telescope launched",
+    "hint": "It started photographing the deep universe"
+  },
+  {
+    "year": 1958,
+    "event": "NASA was founded",
+    "hint": "The space race got serious in the U.S."
+  },
+  {
+    "year": 2007,
+    "event": "First iPhone was released",
+    "hint": "Steve Jobs put a touchscreen in your pocket"
+  },
+  {
+    "year": 1999,
+    "event": "Euro currency introduced",
+    "hint": "The money that united Europe"
+  },
+  {
+    "year": 2014,
+    "event": "Ice Bucket Challenge went viral",
+    "hint": "Cold water, social media, and ALS awareness"
+  },
+  {
+    "year": 1983,
+    "event": "Microsoft Word was released",
+    "hint": "Typing officially became digital"
+  },
+  {
+    "year": 2010,
+    "event": "Tesla released the Model S",
+    "hint": "Electric cars started looking really cool"
+  },
+  {
+    "year": 1955,
+    "event": "Rosa Parks sparked the Montgomery Bus Boycott",
+    "hint": "One brave woman on a bus ignited a civil rights movement"
+  },
+  {
+    "year": 1961,
+    "event": "Yuri Gagarin became the first human in space",
+    "hint": "The Soviet cosmonaut who orbited Earth before anyone else"
+  },
+  {
+    "year": 1973,
+    "event": "First mobile phone call was made by Martin Cooper",
+    "hint": "Before iPhones, there was a giant brick with a dial tone"
+  },
+  {
+    "year": 1989,
+    "event": "Berlin Wall fell, symbolizing the end of the Cold War",
+    "hint": "East met West as the Iron Curtain crumbled"
+  },
+  {
+    "year": 1991,
+    "event": "Soviet Union officially dissolved",
+    "hint": "The end of USSR and the rise of independent republics"
+  },
+  {
+    "year": 1994,
+    "event": "Nelson Mandela became President of South Africa",
+    "hint": "From prisoner to president after apartheid"
+  },
+  {
+    "year": 2004,
+    "event": "Facebook was launched by Mark Zuckerberg",
+    "hint": "It started in a dorm and reshaped the internet forever"
+  },
+  {
+    "year": 2020,
+    "event": "COVID-19 pandemic disrupted the world",
+    "hint": "The virus that changed travel, work, and life overnight"
+  },
+  {
+    "year": 2022,
+    "event": "Queen Elizabeth II passed away after 70-year reign",
+    "hint": "The end of Britain’s longest-reigning monarch’s era"
+  },
+  {
+    "year": 1803,
+    "event": "Louisiana Purchase doubled the size of the USA",
+    "hint": "Biggest land deal in U.S. history"
+  },
+  {
+    "year": 1837,
+    "event": "Queen Victoria ascended the British throne",
+    "hint": "Beginning of a long and iconic royal reign"
+  },
+  {
+    "year": 1848,
+    "event": "Revolutions broke out across Europe",
+    "hint": "Year of uprising and political change everywhere"
+  },
+  {
+    "year": 1857,
+    "event": "Sepoy Mutiny marked the start of India’s First War of Independence",
+    "hint": "Major rebellion against British rule in India"
+  },
+  {
+    "year": 1863,
+    "event": "Abraham Lincoln issued the Emancipation Proclamation",
+    "hint": "Declared slaves free in Confederate states"
+  },
+  {
+    "year": 1865,
+    "event": "American Civil War ended",
+    "hint": "North won, slavery abolished in the USA"
+  },
+  {
+    "year": 1876,
+    "event": "Alexander Graham Bell invented the telephone",
+    "hint": "First-ever voice call made"
+  },
+  {
+    "year": 1889,
+    "event": "Eiffel Tower was completed in Paris",
+    "hint": "Built for the World’s Fair, now an icon"
+  },
+  {
+    "year": 1896,
+    "event": "First modern Olympic Games held in Athens",
+    "hint": "Restarted an ancient tradition"
+  },
+  {
+    "year": 1903,
+    "event": "Wright brothers made the first powered flight",
+    "hint": "Took off at Kitty Hawk, changing travel forever"
+  },
+  {
+    "year": 1914,
+    "event": "World War I began",
+    "hint": "Sparked by the assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "year": 1920,
+    "event": "Women got the right to vote in the U.S.",
+    "hint": "19th Amendment changed the game"
+  },
+  {
+    "year": 1929,
+    "event": "Wall Street Crash triggered the Great Depression",
+    "hint": "Markets fell, economy tanked worldwide"
+  },
+  {
+    "year": 1930,
+    "event": "Gandhi led the Salt March",
+    "hint": "Peaceful protest against British salt tax"
+  },
+  {
+    "year": 1933,
+    "event": "Adolf Hitler became Chancellor of Germany",
+    "hint": "The start of Nazi rule"
+  },
+  {
+    "year": 1945,
+    "event": "Atomic bombs dropped on Hiroshima and Nagasaki",
+    "hint": "Led to the end of WWII"
+  },
+  {
+    "year": 1948,
+    "event": "State of Israel was established",
+    "hint": "Major event in Middle Eastern history"
+  },
+  {
+    "year": 1950,
+    "event": "Korean War began",
+    "hint": "North vs South, with global powers involved"
+  },
+  {
+    "year": 1962,
+    "event": "Cuban Missile Crisis brought the world close to nuclear war",
+    "hint": "13 days of Cold War tension"
+  },
+  {
+    "year": 1973,
+    "event": "First mobile phone call was made",
+    "hint": "Kickstarted the mobile revolution"
+  },
+  {
+    "year": 1975,
+    "event": "Microsoft was founded by Bill Gates and Paul Allen",
+    "hint": "Changed personal computing forever"
+  },
+  {
+    "year": 1989,
+    "event": "Berlin Wall fell",
+    "hint": "Symbolized the end of the Cold War"
+  },
+  {
+    "year": 1991,
+    "event": "Soviet Union collapsed",
+    "hint": "End of the USSR, Cold War officially over"
+  },
+  {
+    "year": 1994,
+    "event": "Nelson Mandela became President of South Africa",
+    "hint": "First Black leader after apartheid"
+  },
+  {
+    "year": 1825,
+    "event": "First public railway (Stockton and Darlington) opened in England",
+    "hint": "Steam trains began carrying people"
+  },
+  {
+    "year": 1876,
+    "event": "Alexander Graham Bell patented the telephone",
+    "hint": "The first ring that changed communication forever"
+  },
+  {
+    "year": 1903,
+    "event": "Wright brothers made the first powered flight",
+    "hint": "Two brothers took off at Kitty Hawk"
+  },
+  {
+    "year": 1928,
+    "event": "Penicillin discovered by Alexander Fleming",
+    "hint": "Mold that turned into a life-saving medicine"
+  },
+  {
+    "year": 1945,
+    "event": "United Nations was founded",
+    "hint": "Global peacekeeping body created post-WWII"
+  },
+  {
+    "year": 1961,
+    "event": "Yuri Gagarin became first human in space",
+    "hint": "Soviet cosmonaut orbited Earth before anyone else"
+  },
+  {
+    "year": 1982,
+    "event": "CDs (Compact Discs) introduced to public",
+    "hint": "Music went digital, discs replaced tapes"
+  },
+  {
+    "year": 1991,
+    "event": "World Wide Web went public",
+    "hint": "The modern internet officially launched"
+  },
+  {
+    "year": 1977,
+    "event": "Star Wars released",
+    "hint": "The Force awakened for the first time"
+  },
+  {
+    "year": 1963,
+    "event": "Martin Luther King Jr. gave 'I Have a Dream' speech",
+    "hint": "March on Washington echoed with hope"
+  },
+  {
+    "year": 1989,
+    "event": "Tim Berners-Lee proposed the World Wide Web",
+    "hint": "A CERN scientist envisioned the internet"
+  },
+  {
+    "year": 1970,
+    "event": "Earth Day celebrated for the first time",
+    "hint": "Global awareness began with green roots"
+  },
+  {
+    "year": 2020,
+    "event": "COVID-19 declared a global pandemic",
+    "hint": "The world locked down, masks went up"
+  },
+  {
+    "year": 2001,
+    "event": "9/11 attacks on World Trade Center",
+    "hint": "Twin towers fell, world changed forever"
+  },
+  {
+    "year": 1967,
+    "event": "First successful human heart transplant",
+    "hint": "A medical miracle led by Dr. Barnard"
+  },
+  {
+    "year": 2003,
+    "event": "Human Genome Project completed",
+    "hint": "Mapped all of human DNA"
+  },
+  {
+    "year": 2016,
+    "event": "Leicester City won Premier League",
+    "hint": "Football’s biggest underdog story"
+  },
+  {
+    "year": 1979,
+    "event": "Sony Walkman released",
+    "hint": "Music on-the-go began in your pocket"
+  },
+  {
+    "year": 1991,
+    "event": "Linux operating system released",
+    "hint": "Open-source OS born in Finland"
+  },
+  {
+    "year": 1980,
+    "event": "CNN launched as first 24-hour news channel",
+    "hint": "News started rolling around the clock"
+  },
+  {
+    "year": 2000,
+    "event": "Y2K bug scare passed without disaster",
+    "hint": "Millennium glitch that didn’t break the world"
+  },
+  {
+    "year": 2013,
+    "event": "Edward Snowden leaked NSA surveillance data",
+    "hint": "Whistleblower exposed global spying"
+  },
+  {
+    "year": 1996,
+    "event": "Dolly the sheep became first cloned mammal",
+    "hint": "A sheep made history in genetics"
+  },
+  {
+    "year": 2021,
+    "event": "James Webb Space Telescope launched",
+    "hint": "A successor to Hubble with deeper eyes"
+  },
+  {
+    "year": 2009,
+    "event": "Bitcoin network launched",
+    "hint": "Digital currency's genesis block was mined"
+  },
+  {
+    "year": 1990,
+    "event": "Germany reunified",
+    "hint": "East and West came together after the Cold War"
+  },
+  {
+    "year": 2018,
+    "event": "India decriminalized homosexuality (Section 377 struck down)",
+    "hint": "A rainbow moment for equality in India"
+  },
+  {
+    "year": 2022,
+    "event": "Queen Elizabeth II passed away",
+    "hint": "The end of a 70-year royal reign"
+  },
+  {
+    "year": 1975,
+    "event": "Microsoft founded by Bill Gates and Paul Allen",
+    "hint": "Two young coders changed computing forever"
+  },
+  {
+    "year": 2015,
+    "event": "Paris Agreement signed on climate change",
+    "hint": "Global pact to save the planet"
+  },
+  {
+    "year": 2004,
+    "event": "Facebook was launched",
+    "hint": "Started from Harvard, now everywhere"
+  },
+  {
+    "year": 2010,
+    "event": "Arab Spring began",
+    "hint": "Mass protests across the Middle East"
+  },
+  {
+    "year": 2016,
+    "event": "UK voted to leave the EU (Brexit)",
+    "hint": "Shook European unity"
+  },
+  {
+    "year": 2019,
+    "event": "Notre-Dame Cathedral caught fire",
+    "hint": "Iconic Paris monument badly damaged"
+  },
+  {
+    "year": 2021,
+    "event": "COVID-19 vaccines rolled out globally",
+    "hint": "Mass vaccination against the pandemic"
+  },
+  {
+    "year": 2022,
+    "event": "Russia invaded Ukraine",
+    "hint": "Triggered global tensions and support for Ukraine"
+  },
+  {
+    "year": 1848,
+    "event": "California Gold Rush began",
+    "hint": "Thousands moved west chasing shiny dreams"
+  },
+  {
+    "year": 1920,
+    "event": "Women gained the right to vote in the U.S.",
+    "hint": "19th Amendment brought a wave of change"
+  },
+  {
+    "year": 1930,
+    "event": "Mahatma Gandhi led the Salt March",
+    "hint": "A peaceful protest against British salt tax"
+  },
+  {
+    "year": 1953,
+    "event": "DNA structure discovered by Watson and Crick",
+    "hint": "The double helix secret of life"
+  },
+  {
+    "year": 1971,
+    "event": "Email was invented by Ray Tomlinson",
+    "hint": "The first digital letter sent with an '@'"
+  },
+  {
+    "year": 1986,
+    "event": "Chernobyl nuclear disaster occurred",
+    "hint": "A meltdown that shook the world"
+  },
+  {
+    "year": 1994,
+    "event": "Amazon was founded by Jeff Bezos",
+    "hint": "Started as a bookstore, became a giant"
+  },
+  {
+    "year": 2004,
+    "event": "Facebook was launched",
+    "hint": "From Harvard dorm to global social network"
+  },
+  {
+    "year": 2010,
+    "event": "Instagram was created",
+    "hint": "Filters, food, and fame began here"
+  },
+  {
+    "year": 2022,
+    "event": "Argentina won the FIFA World Cup",
+    "hint": "Messi lifted the trophy in Qatar"
+  },
+  {
+    "year": 1837,
+    "event": "Queen Victoria became Queen of the UK",
+    "hint": "Her reign defined an entire era"
+  },
+  {
+    "year": 1889,
+    "event": "Eiffel Tower opened in Paris",
+    "hint": "Iron structure became France’s iconic symbol"
+  },
+  {
+    "year": 1912,
+    "event": "Titanic sank in the North Atlantic",
+    "hint": "The unsinkable ship met tragedy"
+  },
+  {
+    "year": 1939,
+    "event": "World War II began",
+    "hint": "Germany invaded Poland, chaos followed"
+  },
+  {
+    "year": 1948,
+    "event": "Mahatma Gandhi was assassinated",
+    "hint": "The father of India was shot in Delhi"
+  },
+  {
+    "year": 1958,
+    "event": "NASA was founded",
+    "hint": "America’s space dreams got a headquarters"
+  },
+  {
+    "year": 1964,
+    "event": "Tokyo hosted the Summer Olympics",
+    "hint": "Asia held the Olympic torch for the first time"
+  },
+  {
+    "year": 1973,
+    "event": "First mobile phone call made",
+    "hint": "Hello from Motorola’s bulky brick"
+  },
+  {
+    "year": 1995,
+    "event": "Windows 95 was released",
+    "hint": "Start menu and GUI changed PCs forever"
+  },
+  {
+    "year": 1998,
+    "event": "Google was founded",
+    "hint": "Two Stanford students built a search giant"
+  },
+  {
+    "year": 2007,
+    "event": "First iPhone released",
+    "hint": "Steve Jobs introduced the touchscreen revolution"
+  },
+  {
+    "year": 2011,
+    "event": "Osama bin Laden was killed",
+    "hint": "The most-wanted terrorist was found in Pakistan"
+  },
+  {
+    "year": 2016,
+    "event": "Pokémon Go released",
+    "hint": "Gamers took to the streets to catch 'em all"
+  },
+  {
+    "year": 2023,
+    "event": "ChatGPT went viral worldwide",
+    "hint": "AI chatbot sparked a global tech boom"
+  },
+  {
+    "year": 1859,
+    "event": "Charles Darwin published 'On the Origin of Species'",
+    "hint": "Evolution theory shook religious beliefs"
+  },
+  {
+    "year": 1863,
+    "event": "Abraham Lincoln issued the Emancipation Proclamation",
+    "hint": "Slavery took a major hit in the U.S."
+  },
+  {
+    "year": 1908,
+    "event": "Ford Model T released",
+    "hint": "First affordable car for the masses"
+  },
+  {
+    "year": 1992,
+    "event": "Barcelona Olympics held",
+    "hint": "Dream Team dominated basketball"
+  },
+  {
+    "year": 2018,
+    "event": "Thai cave boys rescued",
+    "hint": "A global mission saved trapped young footballers"
+  },
+  {
+    "year": 2024,
+    "event": "AI deepfakes raised global concern",
+    "hint": "Fake faces started fooling the world"
+  },
+  {
+    "year": 1901,
+    "event": "First Nobel Prizes awarded",
+    "hint": "The global awards for peace, science, and literature began"
+  },
+  {
+    "year": 1954,
+    "event": "First nuclear power plant opened in Russia",
+    "hint": "It marked the beginning of civil nuclear energy"
+  },
+  {
+    "year": 1995,
+    "event": "Java programming language released",
+    "hint": "It runs on billions of devices today"
+  },
+  {
+    "year": 1962,
+    "event": "Cuban Missile Crisis",
+    "hint": "Cold War almost turned hot"
+  },
+  {
+    "year": 1889,
+    "event": "Eiffel Tower inaugurated",
+    "hint": "The iron giant in Paris stood tall for the world"
+  },
+  {
+    "year": 1972,
+    "event": "First video game console released",
+    "hint": "Magnavox Odyssey started home gaming"
+  },
+  {
+    "year": 1983,
+    "event": "Microsoft Word released",
+    "hint": "Changed how the world writes documents"
+  },
+  {
+    "year": 1920,
+    "event": "League of Nations formed",
+    "hint": "Predecessor to the United Nations"
+  },
+  {
+    "year": 1981,
+    "event": "First space shuttle flight (Columbia)",
+    "hint": "NASA's reusable spacecraft era began"
+  },
+  {
+    "year": 1869,
+    "event": "Periodic table published by Mendeleev",
+    "hint": "Chemistry found its order"
+  },
+  {
+    "year": 1990,
+    "event": "Hubble Space Telescope launched",
+    "hint": "Eyes in space capturing the universe"
+  },
+  {
+    "year": 2016,
+    "event": "Pokemon Go took over the world",
+    "hint": "AR gaming craze on the streets"
+  },
+  {
+    "year": 1876,
+    "event": "First telephone call by Alexander Graham Bell",
+    "hint": "The words “Mr. Watson, come here” made history"
+  },
+  {
+    "year": 1984,
+    "event": "Apple launched the Macintosh",
+    "hint": "A computer with a graphical interface for everyone"
+  },
+  {
+    "year": 2003,
+    "event": "Human Genome Project completed",
+    "hint": "We cracked the full genetic code"
+  },
+  {
+    "year": 1971,
+    "event": "Email invented",
+    "hint": "You’ve got mail — and the internet age began"
+  },
+  {
+    "year": 2007,
+    "event": "First iPhone released",
+    "hint": "Smartphones changed forever"
+  },
+  {
+    "year": 1859,
+    "event": "Charles Darwin published 'On the Origin of Species'",
+    "hint": "The theory of evolution rocked science"
+  },
+  {
+    "year": 1935,
+    "event": "Monopoly board game released",
+    "hint": "People started buying fake property with real joy"
+  },
+  {
+    "year": 1997,
+    "event": "Deep Blue defeated Garry Kasparov",
+    "hint": "AI beat the world chess champion"
+  },
+  {
+    "year": 2018,
+    "event": "GDPR took effect in the EU",
+    "hint": "Privacy laws got serious"
+  },
+  {
+    "year": 1973,
+    "event": "First call made on a mobile phone",
+    "hint": "Motorola made communication truly mobile"
+  },
+  {
+    "year": 1930,
+    "event": "Pluto discovered",
+    "hint": "A planet back then, now a dwarf"
+  },
+  {
+    "year": 1975,
+    "event": "Microsoft was founded",
+    "hint": "Two young guys started a software empire"
+  },
+  {
+    "year": 2010,
+    "event": "Instagram launched",
+    "hint": "Photo sharing hit the explore page"
+  },
+  {
+    "year": 1976,
+    "event": "Apple Inc. was founded",
+    "hint": "Started in a garage, changed the world"
+  },
+  {
+    "year": 2004,
+    "event": "Facebook launched",
+    "hint": "The social network began in a dorm room"
+  },
+  {
+    "year": 2021,
+    "event": "NASA flew a helicopter on Mars",
+    "hint": "Ingenuity made the first powered flight on another planet"
+  },
+  {
+    "year": 1913,
+    "event": "Assembly line introduced by Henry Ford",
+    "hint": "Cars became faster and cheaper to make"
+  },
+  {
+    "year": 1937,
+    "event": "Disney released Snow White",
+    "hint": "The first full-length animated feature film"
+  },
+  {
+    "year": 1989,
+    "event": "Game Boy released",
+    "hint": "Portable gaming was born"
+  },
+  {
+    "year": 2008,
+    "event": "Beijing Olympics showcased China’s rise",
+    "hint": "That opening ceremony was unforgettable"
+  },
+  {
+    "year": 1928,
+    "event": "Penicillin discovered",
+    "hint": "Accidentally saved millions of lives"
+  },
+  {
+    "year": 1946,
+    "event": "UNICEF founded",
+    "hint": "Helping children across the globe"
+  },
+  {
+    "year": 1998,
+    "event": "Google founded",
+    "hint": "The search for everything began"
+  },
+  {
+    "year": 2015,
+    "event": "Paris Agreement signed",
+    "hint": "Nations united to fight climate change"
+  },
+  {
+    "year": 2005,
+    "event": "YouTube launched",
+    "hint": "Broadcast yourself"
+  },
+  {
+    "year": 2020,
+    "event": "Tokyo Olympics held with no spectators",
+    "hint": "Pandemic changed the Olympic vibe"
+  },
+  {
+    "year": 1948,
+    "event": "World Health Organization (WHO) established",
+    "hint": "Global health got an official guardian"
+  },
+  {
+    "year": 1933,
+    "event": "Construction of the Golden Gate Bridge began",
+    "hint": "That iconic red span in San Francisco"
+  },
+  {
+    "year": 2006,
+    "event": "Twitter launched",
+    "hint": "The age of short thoughts began"
+  },
+  {
+    "year": 1919,
+    "event": "First non-stop transatlantic flight",
+    "hint": "Alcock and Brown made history in the skies"
+  },
+  {
+    "year": 1970,
+    "event": "Earth Day celebrated for the first time",
+    "hint": "Started the environmental movement"
+  },
+  {
+    "year": 1896,
+    "event": "First modern Olympic Games held",
+    "hint": "From ancient Greece to modern Athens"
+  },
+  {
+    "year": 2019,
+    "event": "Avengers: Endgame released",
+    "hint": "Highest-grossing film ever (for a while)"
+  },
+  {
+    "year": 1911,
+    "event": "Mona Lisa stolen from the Louvre",
+    "hint": "The heist that made her a superstar"
+  },
+  {
+    "year": 2023,
+    "event": "ChatGPT took over the internet",
+    "hint": "AI chatbots got too real"
+  },
+  {
+    "year": 1851,
+    "event": "First World's Fair held in London",
+    "hint": "Showcased innovation in the Crystal Palace"
+  },
+  {
+    "year": 1999,
+    "event": "Euro introduced as currency",
+    "hint": "One money, many countries"
+  },
+  {
+    "year": 1980,
+    "event": "CNN launched",
+    "hint": "24-hour news cycle began"
+  },
+  {
+    "year": 1969,
+    "event": "ARPANET established",
+    "hint": "The original internet prototype"
+  },
+  {
+    "year": 1945,
+    "event": "Atomic bombs dropped on Hiroshima and Nagasaki",
+    "hint": "The world saw nuclear warfare"
+  },
+  {
+    "year": 1991,
+    "event": "Linux kernel created",
+    "hint": "Open-source OS revolution begins"
+  },
+  {
+    "year": 2020,
+    "event": "COVID-19 declared a global pandemic",
+    "hint": "The world went into lockdown"
+  },
+  {
+    "year": 1977,
+    "event": "Star Wars released",
+    "hint": "Sci-fi cinema changed forever"
+  },
+  {
+    "year": 2012,
+    "event": "Curiosity rover lands on Mars",
+    "hint": "NASA touched Martian soil again"
+  },
+  {
+    "year": 2009,
+    "event": "Bitcoin's Genesis Block mined",
+    "hint": "The crypto era officially began"
+  },
+  {
+    "year": 1903,
+    "event": "Wright brothers’ first powered flight",
+    "hint": "Mankind finally took flight"
+  },
+  {
+    "year": 1955,
+    "event": "McDonald's founded as a franchise",
+    "hint": "Fast food took over the world"
+  },
+  {
+    "year": 2001,
+    "event": "Wikipedia launched",
+    "hint": "The free encyclopedia anyone can edit"
+  },
+  {
+    "year": 1964,
+    "event": "First BASIC programming language created",
+    "hint": "Programming became beginner-friendly"
+  },
+  {
+    "year": 2013,
+    "event": "Black Lives Matter movement started",
+    "hint": "Sparked by Trayvon Martin’s case"
+  },
+  {
+    "year": 1985,
+    "event": "Nintendo released the NES in North America",
+    "hint": "Revived the gaming industry"
+  },
+  {
+    "year": 1927,
+    "event": "First 'talkie' movie released",
+    "hint": "The Jazz Singer brought sound to cinema"
+  },
+  {
+    "year": 2022,
+    "event": "Queen Elizabeth II passed away",
+    "hint": "End of a 70-year reign"
+  },
+  {
+    "year": 1993,
+    "event": "World Wide Web goes public",
+    "hint": "The internet entered households"
+  },
+  {
+    "year": 2000,
+    "event": "Y2K bug scare",
+    "hint": "Computers faced the millennium glitch"
+  },
+  {
+    "year": 1986,
+    "event": "Chernobyl disaster",
+    "hint": "Nuclear meltdown shook the world"
+  },
+  {
+    "year": 1963,
+    "event": "John F. Kennedy assassinated",
+    "hint": "A turning point in U.S. history"
+  },
+  {
+    "year": 1947,
+    "event": "India and Pakistan gain independence",
+    "hint": "End of British colonial rule"
+  },
+  {
+    "year": 1979,
+    "event": "Sony Walkman released",
+    "hint": "Music went portable"
+  },
+  {
+    "year": 1914,
+    "event": "World War I began",
+    "hint": "The Great War erupted"
+  },
+  {
+    "year": 1994,
+    "event": "Amazon founded by Jeff Bezos",
+    "hint": "Started as an online bookstore"
+  },
+  {
+    "year": 2008,
+    "event": "Global financial crisis",
+    "hint": "Banks collapsed, economies shook"
+  },
+  {
+    "year": 1961,
+    "event": "Yuri Gagarin becomes first man in space",
+    "hint": "Soviet cosmonaut made history"
+  },
+  {
+    "year": 1971,
+    "event": "Intel releases first microprocessor (4004)",
+    "hint": "Birth of modern computing"
+  },
+  {
+    "year": 2011,
+    "event": "Arab Spring begins",
+    "hint": "Mass protests across the Middle East"
+  },
+  {
+    "year": 1974,
+    "event": "Rubik's Cube invented",
+    "hint": "Became the best-selling toy ever"
+  },
+  {
+    "year": 2009,
+    "event": "WhatsApp founded",
+    "hint": "Became the default messenger worldwide"
+  },
+  {
+    "year": 1886,
+    "event": "Statue of Liberty arrives in New York",
+    "hint": "A French gift to the U.S."
+  },
+  {
+    "year": 1995,
+    "event": "Windows 95 released",
+    "hint": "The OS that made PCs user-friendly"
+  },
+  {
+    "year": 2014,
+    "event": "Flappy Bird goes viral",
+    "hint": "Frustrating tap game took over phones"
+  },
+  {
+    "year": 1895,
+    "event": "First X-ray image taken",
+    "hint": "Peeked inside the human body"
+  },
+  {
+    "year": 2007,
+    "event": "Amazon Kindle launched",
+    "hint": "Reading went digital"
+  },
+  {
+    "year": 2021,
+    "event": "James Webb Space Telescope launched",
+    "hint": "Seeing deeper into the universe"
+  },
+  {
+    "year": 1989,
+    "event": "Berlin Wall falls",
+    "hint": "Cold War began to thaw"
+  },
+  {
+    "year": 1992,
+    "event": "SMS text message sent for the first time",
+    "hint": "Said 'Merry Christmas'"
+  },
+  {
+    "year": 1953,
+    "event": "DNA structure discovered",
+    "hint": "Double helix unlocked genetics"
+  },
+  {
+    "year": 1973,
+    "event": "Skylab launched",
+    "hint": "First U.S. space station"
+  },
+  {
+    "year": 2010,
+    "event": "Tesla launched the Roadster",
+    "hint": "Electric cars went mainstream"
+  },
+  {
+    "year": 1939,
+    "event": "World War II began",
+    "hint": "Hitler invaded Poland"
+  },
+  {
+    "year": 2016,
+    "event": "Brexit referendum passed",
+    "hint": "UK voted to leave the EU"
+  },
+  {
+    "year": 1950,
+    "event": "First credit card introduced",
+    "hint": "Diners Club started a plastic revolution"
+  },
+  {
+    "year": 1980,
+    "event": "Pac-Man released",
+    "hint": "Iconic arcade muncher born"
+  },
+  {
+    "year": 1905,
+    "event": "Einstein publishes theory of relativity",
+    "hint": "E = mc² shook the world"
+  },
+  {
+    "year": 1982,
+    "event": "CD player released",
+    "hint": "Music went digital for the first time"
+  },
+  {
+    "year": 1996,
+    "event": "Dolly the sheep cloned",
+    "hint": "First cloned mammal in history"
+  },
+  {
+    "year": 1929,
+    "event": "Wall Street Crash",
+    "hint": "Triggered the Great Depression"
+  },
+  {
+    "year": 1965,
+    "event": "Moore's Law introduced",
+    "hint": "Predicted doubling of transistor power"
+  },
+  {
+    "year": 1987,
+    "event": "The Simpsons first appeared",
+    "hint": "Started as shorts on The Tracey Ullman Show"
+  },
+  {
+    "year": 1998,
+    "event": "Google founded by Larry Page and Sergey Brin",
+    "hint": "Search engine that changed the web"
+  },
+  {
+    "year": 2004,
+    "event": "Facebook launched",
+    "hint": "Started as a Harvard-only network"
+  },
+  {
+    "year": 2010,
+    "event": "Instagram launched",
+    "hint": "Photo sharing redefined"
+  },
+  {
+    "year": 1972,
+    "event": "Pong released by Atari",
+    "hint": "Birth of commercial video gaming"
+  },
+  {
+    "year": 1936,
+    "event": "Jesse Owens wins 4 Olympic golds",
+    "hint": "Challenged Nazi propaganda"
+  },
+  {
+    "year": 2003,
+    "event": "Human Genome Project completed",
+    "hint": "Mapped all human DNA"
+  },
+  {
+    "year": 1997,
+    "event": "Titanic movie released",
+    "hint": "Won 11 Oscars"
+  },
+  {
+    "year": 1975,
+    "event": "Microsoft founded",
+    "hint": "Bill Gates and Paul Allen's startup"
+  },
+  {
+    "year": 2015,
+    "event": "Paris Climate Agreement adopted",
+    "hint": "Global pledge to fight climate change"
+  },
+  {
+    "year": 2023,
+    "event": "ChatGPT launched publicly",
+    "hint": "AI chatbot goes viral"
+  },
+  {
+    "year": 1984,
+    "event": "Apple Macintosh released",
+    "hint": "GUI and mouse go mainstream"
+  },
+  {
+    "year": 2019,
+    "event": "First image of a black hole revealed",
+    "hint": "Captured by the Event Horizon Telescope"
+  },
+  {
+    "year": 1970,
+    "event": "Earth Day celebrated for the first time",
+    "hint": "Marked the start of the environmental movement"
+  },
+  {
+    "year": 1991,
+    "event": "Soviet Union dissolved",
+    "hint": "Marked the end of the Cold War"
+  },
+  {
+    "year": 1996,
+    "event": "Pokémon Red and Green released in Japan",
+    "hint": "Gotta catch 'em all!"
+  },
+  {
+    "year": 2018,
+    "event": "Avengers: Infinity War released",
+    "hint": "Thanos snapped"
+  },
+  {
+    "year": 2005,
+    "event": "YouTube founded",
+    "hint": "First video was 'Me at the zoo'"
+  },
+  {
+    "year": 1981,
+    "event": "MTV launched",
+    "hint": "First video: 'Video Killed the Radio Star'"
+  },
+  {
+    "year": 1990,
+    "event": "Photoshop released",
+    "hint": "Changed photo editing forever"
+  },
+  {
+    "year": 2022,
+    "event": "Argentina wins FIFA World Cup",
+    "hint": "Messi’s redemption story"
+  },
+  {
+    "year": 2016,
+    "event": "Pokemon GO released",
+    "hint": "Blended gaming and real-world exploration"
+  },
+  {
+    "year": 2006,
+    "event": "Twitter launched",
+    "hint": "The bird app that defined microblogging"
+  },
+  {
+    "year": 1983,
+    "event": "Mario Bros. arcade game released",
+    "hint": "Plumbers hit the screen"
+  },
+  {
+    "year": 1999,
+    "event": "Matrix movie released",
+    "hint": "Red pill or blue pill?"
+  },
+  {
+    "year": 2007,
+    "event": "iPhone released",
+    "hint": "The smartphone era begins"
+  },
+  {
+    "year": 1971,
+    "event": "Email invented by Ray Tomlinson",
+    "hint": "The first '@' was used"
+  },
+  {
+    "year": 1989,
+    "event": "Game Boy launched",
+    "hint": "Portable gaming entered the chat"
+  },
+  {
+    "year": 2017,
+    "event": "#MeToo movement goes viral",
+    "hint": "Exposed widespread harassment"
+  },
+  {
+    "year": 1995,
+    "event": "Java programming language released",
+    "hint": "Write once, run anywhere"
+  },
+  {
+    "year": 1984,
+    "event": "Tetris released",
+    "hint": "The Soviet puzzle game"
+  },
+  {
+    "year": 2008,
+    "event": "Barack Obama elected President",
+    "hint": "First Black U.S. President"
+  },
+  {
+    "year": 1960,
+    "event": "Laser invented",
+    "hint": "Revolutionized tech and medicine"
+  },
+  {
+    "year": 2010,
+    "event": "iPad released",
+    "hint": "Tablet computing popularized"
+  },
+  {
+    "year": 1980,
+    "event": "CNN launched",
+    "hint": "24-hour news began"
+  },
+  {
+    "year": 1976,
+    "event": "Apple Inc. founded",
+    "hint": "Jobs and Wozniak started it all"
+  },
+  {
+    "year": 1993,
+    "event": "Doom video game released",
+    "hint": "Defined the FPS genre"
+  },
+  {
+    "year": 1969,
+    "event": "Woodstock music festival",
+    "hint": "Peace, love, and music"
+  },
+  {
+    "year": 2011,
+    "event": "Steve Jobs passed away",
+    "hint": "End of an era in tech"
+  },
+  {
+    "year": 2023,
+    "event": "Threads app launched by Meta",
+    "hint": "Twitter rival on Instagram's backend"
+  },
+  {
+    "year": 1965,
+    "event": "First spacewalk by Alexei Leonov",
+    "hint": "Floated outside the capsule"
+  },
+  {
+    "year": 1973,
+    "event": "Mobile phone invented by Martin Cooper",
+    "hint": "The first call from a cell phone"
+  },
+  {
+    "year": 2018,
+    "event": "Google Duplex demo shocks audience",
+    "hint": "AI books salon appointment on call"
+  },
+  {
+    "year": 1979,
+    "event": "Iranian Revolution",
+    "hint": "Overthrew the Shah"
+  },
+  {
+    "year": 1966,
+    "event": "England wins FIFA World Cup",
+    "hint": "It came home once"
+  },
+  {
+    "year": 2022,
+    "event": "Elon Musk acquires Twitter",
+    "hint": "Billionaire takes over bird app"
+  },
+  {
+    "year": 1958,
+    "event": "NASA founded",
+    "hint": "Response to Soviet space race"
+  },
+  {
+    "year": 2014,
+    "event": "ALS Ice Bucket Challenge goes viral",
+    "hint": "Cold water for a good cause"
+  },
+  {
+    "year": 1998,
+    "event": "iMac G3 launched",
+    "hint": "Colorful computer revived Apple"
+  },
+  {
+    "year": 1987,
+    "event": "GIF format introduced",
+    "hint": "Looping animation arrives"
+  },
+  {
+    "year": 2015,
+    "event": "Tesla Autopilot released",
+    "hint": "Self-driving dream takes off"
+  },
+  {
+    "year": 1994,
+    "event": "Amazon founded by Jeff Bezos",
+    "hint": "Started as an online bookstore"
+  },
+  {
+    "year": 1985,
+    "event": "Windows 1.0 released",
+    "hint": "Microsoft enters the GUI scene"
+  },
+  {
+    "year": 2001,
+    "event": "Wikipedia launched",
+    "hint": "Free online encyclopedia begins"
+  },
+  {
+    "year": 2009,
+    "event": "Bitcoin Genesis Block mined",
+    "hint": "Start of the crypto era"
+  },
+  {
+    "year": 2016,
+    "event": "TikTok (Douyin) launched in China",
+    "hint": "Short videos take over the world"
+  },
+  {
+    "year": 2001,
+    "event": "iPod released",
+    "hint": "1,000 songs in your pocket"
+  },
+  {
+    "year": 2021,
+    "event": "NASA’s Perseverance lands on Mars",
+    "hint": "Searching for signs of ancient life"
+  },
+  {
+    "year": 1993,
+    "event": "Intel Pentium chip announced",
+    "hint": "Revolutionized personal computing"
+  },
+  {
+    "year": 1992,
+    "event": "First SMS text message sent",
+    "hint": "Said: 'Merry Christmas'"
+  },
+  {
+    "year": 1997,
+    "event": "Netflix founded",
+    "hint": "Mail DVDs, later streaming"
+  },
+  {
+    "year": 1982,
+    "event": "E.T. the Extra-Terrestrial released",
+    "hint": "Phone home"
+  },
+  {
+    "year": 1977,
+    "event": "Star Wars: A New Hope released",
+    "hint": "Galactic cinema revolution"
+  },
+  {
+    "year": 2008,
+    "event": "Spotify launched",
+    "hint": "Streaming kills piracy"
+  },
+  {
+    "year": 2014,
+    "event": "Ebola outbreak in West Africa",
+    "hint": "WHO declares global emergency"
+  },
+  {
+    "year": 2020,
+    "event": "COVID-19 pandemic declared",
+    "hint": "Global lockdown begins"
+  },
+  {
+    "year": 2009,
+    "event": "WhatsApp founded",
+    "hint": "Texting goes global"
+  },
+  {
+    "year": 1991,
+    "event": "Linux released by Linus Torvalds",
+    "hint": "Free open-source OS begins"
+  },
+  {
+    "year": 2000,
+    "event": "PlayStation 2 released",
+    "hint": "Best-selling console ever"
+  },
+  {
+    "year": 1998,
+    "event": "MP3 players hit the market",
+    "hint": "Portable music begins"
+  },
+  {
+    "year": 1989,
+    "event": "World Wide Web proposed by Tim Berners-Lee",
+    "hint": "The internet as we know it"
+  },
+  {
+    "year": 2021,
+    "event": "Squid Game becomes a global phenomenon",
+    "hint": "Red Light, Green Light"
+  },
+  {
+    "year": 2013,
+    "event": "Frozen released by Disney",
+    "hint": "Let it goooo"
+  },
+  {
+    "year": 1985,
+    "event": "Nintendo releases NES in the US",
+    "hint": "Gaming makes a comeback"
+  },
+  {
+    "year": 2004,
+    "event": "Gmail launched",
+    "hint": "1 GB inbox shocked users"
+  },
+  {
+    "year": 2012,
+    "event": "Gangnam Style breaks YouTube",
+    "hint": "First to hit 1 billion views"
+  },
+  {
+    "year": 1971,
+    "event": "Intel releases first microprocessor",
+    "hint": "The 4004 changes tech forever"
+  },
+  {
+    "year": 2010,
+    "event": "Pinterest launched",
+    "hint": "Boards for everything"
+  },
+  {
+    "year": 1994,
+    "event": "Sony PlayStation launched in Japan",
+    "hint": "CD-based gaming begins"
+  },
+  {
+    "year": 2007,
+    "event": "Google Street View launched",
+    "hint": "See your house on the internet"
+  },
+  {
+    "year": 2020,
+    "event": "Among Us surges during lockdown",
+    "hint": "Who’s the imposter?"
+  },
+  {
+    "year": 2006,
+    "event": "Wii released by Nintendo",
+    "hint": "Motion gaming takes off"
+  },
+  {
+    "year": 2003,
+    "event": "Skype launched",
+    "hint": "Internet calling made easy"
+  },
+  {
+    "year": 2019,
+    "event": "Disney+ launched",
+    "hint": "Mouse enters the streaming war"
+  },
+  {
+    "year": 1989,
+    "event": "Berlin Wall falls",
+    "hint": "Germany reunites"
+  },
+  {
+    "year": 1979,
+    "event": "Walkman launched by Sony",
+    "hint": "Portable music freedom"
+  },
+  {
+    "year": 1980,
+    "event": "Pac-Man released",
+    "hint": "Waka waka chase begins"
+  },
+  {
+    "year": 2001,
+    "event": "Wikipedia created",
+    "hint": "Free knowledge movement"
+  },
+  {
+    "year": 2006,
+    "event": "Google buys YouTube",
+    "hint": "The video giant gets a new home"
+  },
+  {
+    "year": 2023,
+    "event": "Barbie movie breaks box office records",
+    "hint": "She's everything, he's just Ken"
+  },
+  {
+    "year": 2015,
+    "event": "Zuckerberg launches Internet.org",
+    "hint": "Free basic internet for developing countries"
+  },
+  {
+    "year": 2022,
+    "event": "James Webb Space Telescope begins operation",
+    "hint": "Deep space in 4K"
+  },
+  {
+    "year": 2016,
+    "event": "Overwatch released",
+    "hint": "Team shooter with ultimates"
+  },
+  {
+    "year": 1993,
+    "event": "World Wide Web goes public",
+    "hint": "Internet becomes available to everyone"
+  },
+  {
+    "year": 1995,
+    "event": "eBay founded",
+    "hint": "The first online auction house"
+  },
+  {
+    "year": 2020,
+    "event": "Animal Crossing: New Horizons released",
+    "hint": "Pandemic escape to island life"
+  },
+  {
+    "year": 2002,
+    "event": "LinkedIn founded",
+    "hint": "The business social network"
+  },
+  {
+    "year": 2000,
+    "event": "The Sims released",
+    "hint": "Life simulation revolution"
+  },
+  {
+    "year": 2012,
+    "event": "Facebook acquires Instagram",
+    "hint": "A billion-dollar buy"
+  },
+  {
+    "year": 1990,
+    "event": "Photoshop 1.0 released",
+    "hint": "Began the image editing era"
+  },
+  {
+    "year": 2005,
+    "event": "Reddit founded",
+    "hint": "The front page of the internet"
+  },
+  {
+    "year": 1984,
+    "event": "Apple launches the Macintosh",
+    "hint": "Iconic 1984 Super Bowl ad"
+  },
+  {
+    "year": 2003,
+    "event": "Call of Duty franchise begins",
+    "hint": "WWII shooter that changed FPS"
+  },
+  {
+    "year": 2006,
+    "event": "Twitter founded",
+    "hint": "Just 140 characters"
+  },
+  {
+    "year": 2018,
+    "event": "Fortnite becomes global sensation",
+    "hint": "Battle royale + dance moves"
+  },
+  {
+    "year": 1990,
+    "event": "Hubble Space Telescope launched",
+    "hint": "Eyes in deep space"
+  },
+  {
+    "year": 2003,
+    "event": "MySpace launched",
+    "hint": "Top 8 drama days"
+  },
+  {
+    "year": 2009,
+    "event": "Uber founded",
+    "hint": "Tap a ride to anywhere"
+  },
+  {
+    "year": 2016,
+    "event": "Pokémon GO released",
+    "hint": "AR meets real-world catching"
+  },
+  {
+    "year": 2008,
+    "event": "Airbnb founded",
+    "hint": "Your home is now a hotel"
+  },
+  {
+    "year": 1983,
+    "event": "Microsoft Word released",
+    "hint": "Typed its way into offices everywhere"
+  },
+  {
+    "year": 2019,
+    "event": "Avengers: Endgame releases",
+    "hint": "Biggest crossover in film"
+  },
+  {
+    "year": 2021,
+    "event": "Facebook rebrands to Meta",
+    "hint": "Metaverse begins"
+  },
+  {
+    "year": 1989,
+    "event": "Game Boy released",
+    "hint": "Portable gaming legend"
+  },
+  {
+    "year": 1996,
+    "event": "Pokémon Red & Blue released",
+    "hint": "Gotta catch ‘em all"
+  },
+  {
+    "year": 2017,
+    "event": "iPhone X introduced Face ID",
+    "hint": "Say goodbye to home button"
+  },
+  {
+    "year": 2015,
+    "event": "Tesla’s Autopilot released",
+    "hint": "Self-driving dreams begin"
+  },
+  {
+    "year": 1995,
+    "event": "JavaScript created by Netscape",
+    "hint": "Web interactivity game-changer"
+  },
+  {
+    "year": 1981,
+    "event": "MS-DOS launched",
+    "hint": "Microsoft enters the OS game"
+  },
+  {
+    "year": 2020,
+    "event": "Zoom takes over the world",
+    "hint": "Virtual meetings boom"
+  },
+  {
+    "year": 2005,
+    "event": "YouTube founded",
+    "hint": "First video was at the zoo"
+  },
+  {
+    "year": 2021,
+    "event": "NFT craze explodes",
+    "hint": "JPGs sold for millions"
+  },
+  {
+    "year": 2012,
+    "event": "Google Now released",
+    "hint": "Predecessor to Google Assistant"
+  },
+  {
+    "year": 1991,
+    "event": "World Wide Web becomes public domain",
+    "hint": "Free for all"
+  },
+  {
+    "year": 1999,
+    "event": "Bluetooth 1.0 launched",
+    "hint": "Short-range wireless begins"
+  },
+  {
+    "year": 1980,
+    "event": "CNN launched",
+    "hint": "First 24/7 news network"
+  },
+  {
+    "year": 2010,
+    "event": "Instagram launched",
+    "hint": "Filters and square photos"
+  },
+  {
+    "year": 2023,
+    "event": "ChatGPT hits mainstream use",
+    "hint": "AI chat revolution"
+  },
+  {
+    "year": 2007,
+    "event": "First iPhone released",
+    "hint": "Touchscreen changed the game"
+  },
+  {
+    "year": 2002,
+    "event": "The Wire debuts on HBO",
+    "hint": "Critically acclaimed crime drama"
+  },
+  {
+    "year": 1997,
+    "event": "Deep Blue beats Garry Kasparov",
+    "hint": "AI defeats chess grandmaster"
+  },
+  {
+    "year": 2022,
+    "event": "Elon Musk buys Twitter",
+    "hint": "X marks the spot"
+  },
+  {
+    "year": 2000,
+    "event": "Dot-com bubble bursts",
+    "hint": "Tech stocks crash"
+  },
+  {
+    "year": 1986,
+    "event": "Chernobyl disaster",
+    "hint": "Nuclear meltdown in Ukraine"
+  },
+  {
+    "year": 1999,
+    "event": "Matrix released",
+    "hint": "Red pill or blue pill?"
+  },
+  {
+    "year": 2023,
+    "event": "Oppenheimer film releases",
+    "hint": "Barbenheimer summer"
+  },
+  {
+    "year": 1977,
+    "event": "Apple II released",
+    "hint": "First mass-market PC"
+  },
+  {
+    "year": 2004,
+    "event": "World of Warcraft launched",
+    "hint": "MMORPG juggernaut"
+  },
+  {
+    "year": 1998,
+    "event": "Google founded",
+    "hint": "From dorm room to global search"
+  },
+  {
+    "year": 1982,
+    "event": "Commodore 64 launched",
+    "hint": "Best-selling computer model"
+  },
+  {
+    "year": 1997,
+    "event": "Netflix founded",
+    "hint": "DVD by mail beginnings"
+  },
+  {
+    "year": 2001,
+    "event": "Mac OS X released",
+    "hint": "Unix-based Apple OS"
+  },
+  {
+    "year": 2022,
+    "event": "AI art tools like DALL·E go public",
+    "hint": "Text to image magic"
+  },
+  {
+    "year": 2015,
+    "event": "React Native released by Facebook",
+    "hint": "Write once, mobile everywhere"
+  },
+  {
+    "year": 2009,
+    "event": "Angry Birds released",
+    "hint": "Mobile gaming goes viral"
+  },
+  {
+    "year": 1999,
+    "event": "Napster launches",
+    "hint": "Peer-to-peer music sharing"
+  },
+  {
+    "year": 2006,
+    "event": "Google buys YouTube",
+    "hint": "1.6 billion dollar deal"
+  },
+  {
+    "year": 1994,
+    "event": "Yahoo founded",
+    "hint": "Old-school web portal"
+  },
+  {
+    "year": 2021,
+    "event": "Clubhouse audio app peaks",
+    "hint": "Invite-only audio chats"
+  },
+  {
+    "year": 1996,
+    "event": "Tamagotchi launched",
+    "hint": "Pocket pet craze"
+  },
+  {
+    "year": 2011,
+    "event": "Snapchat launched",
+    "hint": "Disappearing messages"
+  },
+  {
+    "year": 2004,
+    "event": "Firefox 1.0 released",
+    "hint": "Open-source browser alternative"
+  },
+  {
+    "year": 1985,
+    "event": "Microsoft Windows 1.0 released",
+    "hint": "Start of the GUI wars"
+  },
+  {
+    "year": 1991,
+    "event": "Linux kernel released by Linus Torvalds",
+    "hint": "Open-source revolution begins"
+  },
+  {
+    "year": 1993,
+    "event": "Doom released",
+    "hint": "First-person shooter breakthrough"
+  },
+  {
+    "year": 1990,
+    "event": "Photoshop 1.0 released",
+    "hint": "Photo editing changes forever"
+  },
+  {
+    "year": 2001,
+    "event": "Wikipedia launched",
+    "hint": "Anyone can edit knowledge"
+  },
+  {
+    "year": 2012,
+    "event": "Facebook buys Instagram",
+    "hint": "1B dollars for filters"
+  },
+  {
+    "year": 2006,
+    "event": "Wii released by Nintendo",
+    "hint": "Motion gaming takes over"
+  },
+  {
+    "year": 1989,
+    "event": "Berlin Wall falls",
+    "hint": "Cold War thaw"
+  },
+  {
+    "year": 2013,
+    "event": "Edward Snowden leaks NSA files",
+    "hint": "Whistleblower sparks global debate"
+  },
+  {
+    "year": 2009,
+    "event": "Bitcoin Genesis Block mined",
+    "hint": "Crypto era begins"
+  },
+  {
+    "year": 2016,
+    "event": "TikTok (Douyin) launches in China",
+    "hint": "15-second content wave begins"
+  },
+  {
+    "year": 2019,
+    "event": "First image of a black hole captured",
+    "hint": "Space photography milestone"
+  },
+  {
+    "year": 1983,
+    "event": "Motorola DynaTAC launched",
+    "hint": "First commercial mobile phone"
+  },
+  {
+    "year": 2001,
+    "event": "9/11 terror attacks in US",
+    "hint": "Changed global security forever"
+  },
+  {
+    "year": 2003,
+    "event": "WordPress created",
+    "hint": "CMS that powers the web"
+  },
+  {
+    "year": 1995,
+    "event": "Amazon.com goes live",
+    "hint": "From books to everything"
+  },
+  {
+    "year": 2015,
+    "event": "Windows 10 released",
+    "hint": "Final version? Maybe"
+  },
+  {
+    "year": 2007,
+    "event": "Tumblr launched",
+    "hint": "GIFs, fandoms, and chaos"
+  },
+  {
+    "year": 2022,
+    "event": "Wordle goes viral",
+    "hint": "One word a day, worldwide"
+  },
+  {
+    "year": 1998,
+    "event": "iMac G3 released",
+    "hint": "Colorful design comeback"
+  },
+  {
+    "year": 1987,
+    "event": "GIF file format released",
+    "hint": "Looping pixels forever"
+  },
+  {
+    "year": 2013,
+    "event": "Flappy Bird released",
+    "hint": "Tap to rage"
+  },
+  {
+    "year": 2008,
+    "event": "Chrome browser released",
+    "hint": "Fast, simple, and dominant"
+  },
+  {
+    "year": 2018,
+    "event": "GDPR goes into effect in EU",
+    "hint": "Privacy laws shake the web"
+  },
+  {
+    "year": 2004,
+    "event": "Gmail launched by Google",
+    "hint": "1GB email storage revolution"
+  },
+  {
+    "year": 2020,
+    "event": "Among Us surges in popularity",
+    "hint": "Sus became a word"
+  },
+  {
+    "year": 1994,
+    "event": "Sony PlayStation released",
+    "hint": "CD-based console gaming"
+  },
+  {
+    "year": 2010,
+    "event": "iPad released",
+    "hint": "Tablet era begins"
+  },
+  {
+    "year": 2005,
+    "event": "Google Maps launched",
+    "hint": "No more getting lost"
+  },
+  {
+    "year": 1996,
+    "event": "Hotmail launched",
+    "hint": "One of the first webmail services"
+  },
+  {
+    "year": 1992,
+    "event": "SMS text message sent",
+    "hint": "Merry Christmas via mobile"
+  },
+  {
+    "year": 2003,
+    "event": "Steam platform launched",
+    "hint": "Digital PC gaming hub"
+  },
+  {
+    "year": 2017,
+    "event": "Equifax data breach",
+    "hint": "Millions' data exposed"
+  },
+  {
+    "year": 1984,
+    "event": "Tetris released",
+    "hint": "Block puzzle addiction starts"
+  },
+  {
+    "year": 2014,
+    "event": "Facebook acquires WhatsApp",
+    "hint": "Messaging giant"
+  },
+  {
+    "year": 2022,
+    "event": "Midjourney AI art tool launches",
+    "hint": "Text to image in Discord"
+  },
+  {
+    "year": 2000,
+    "event": "The Sims released",
+    "hint": "Life simulation phenomenon"
+  },
+  {
+    "year": 1987,
+    "event": "Final Fantasy I released",
+    "hint": "Began a legendary RPG franchise"
+  },
+  {
+    "year": 2002,
+    "event": "LinkedIn founded",
+    "hint": "Professional networking begins"
+  },
+  {
+    "year": 2011,
+    "event": "Game of Thrones premieres",
+    "hint": "Winter is coming"
+  },
+  {
+    "year": 2023,
+    "event": "Apple Vision Pro announced",
+    "hint": "Mixed reality headset from Apple"
+  },
+  {
+    "year": 1995,
+    "event": "Toy Story released",
+    "hint": "First full 3D-animated film"
+  },
+  {
+    "year": 2020,
+    "event": "India bans TikTok and other Chinese apps",
+    "hint": "Digital strike"
+  },
+  {
+    "year": 2014,
+    "event": "Amazon Echo released",
+    "hint": "Alexa enters homes"
+  },
+  {
+    "year": 2010,
+    "event": "Instagram introduces hashtags",
+    "hint": "#GameChanger"
+  },
+  {
+    "year": 1982,
+    "event": "E.T. the Extra-Terrestrial released",
+    "hint": "Phone home"
+  },
+  {
+    "year": 2009,
+    "event": "Minecraft launched publicly",
+    "hint": "Build your own world"
+  },
+  {
+    "year": 1993,
+    "event": "Intel Pentium processor released",
+    "hint": "Start of powerful home computing"
+  },
+  {
+    "year": 2011,
+    "event": "Spotify launches in the US",
+    "hint": "Streaming takes off"
+  },
+  {
+    "year": 2006,
+    "event": "Twitter’s first tweet posted",
+    "hint": "Just setting up my twttr"
+  }
+]
