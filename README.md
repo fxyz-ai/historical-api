@@ -1,6 +1,6 @@
 # Historical Events API
 
-This is a simple public API that serves historical, each with several events happened on the year.
+This is a simple public API that serves historical events, each with several events happened on the year.
 
 ---
 
@@ -10,7 +10,7 @@ This is a simple public API that serves historical, each with several events hap
 Returns all historical event entries.
 
 ### `api/events/year`
-Returns the event for a specific year.
+Returns the events for a specific year.
 
 ---
 
