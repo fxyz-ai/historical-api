@@ -5,11 +5,10 @@ const app = express();
 app.use('/events', eventsRouter);
 
 app.get('/', (req, res) => {
-  res.send('API is up and running! Use /events or /events/year');
+  res.send('🎉 API is up and running! Use /events or /events/year');
 });
 
-
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3333;
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });

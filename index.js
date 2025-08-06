@@ -15,7 +15,7 @@ router.get('/:year', (req, res) => {
   const events = JSON.parse(fs.readFileSync(dataPath));
   const filtered = events.filter(event => event.year === year);
   if (filtered.length === 0) {
-    return res.status(404).json({ message: 'No events found for this year.' });
+    return res.status(404).send('No events logged for this year. Check between 1939-2024');
   }
   res.json(filtered);
 });
