@@ -3,9 +3,10 @@ const eventsRouter = require('./index');
 const app = express();
 
 app.use('/events', eventsRouter);
+app.set('view engine','ejs')
 
 app.get('/', (req, res) => {
-  res.send('🎉 API is up and running! Use /events or /events/year');
+  res.render('template')
 });
 
 const PORT = process.env.PORT || 3333;
